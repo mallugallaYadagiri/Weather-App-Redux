@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Weather-App-Redux/static/css/main.38dafd0a.css",
+    "main.js": "/Weather-App-Redux/static/js/main.36a481bc.js",
+    "static/media/weather.jpg": "/Weather-App-Redux/static/media/weather.edb86f609aa725594f43.jpg",
+    "index.html": "/Weather-App-Redux/index.html",
+    "main.38dafd0a.css.map": "/Weather-App-Redux/static/css/main.38dafd0a.css.map",
+    "main.36a481bc.js.map": "/Weather-App-Redux/static/js/main.36a481bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38dafd0a.css",
+    "static/js/main.36a481bc.js"
+  ]
+}
